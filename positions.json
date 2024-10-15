@@ -1,0 +1,102 @@
+{
+    "bobybob4004": {
+        "NVDA": {
+            "type": "long",
+            "entryPrice": 100,
+            "stopLoss": 90,
+            "takeProfit": null,
+            "sharesBought": 300,
+            "sharesSold": 0,
+            "status": "open",
+            "profitLossPercentage": 0,
+            "createdAt": "2024-10-14T07:33:57.240Z"
+        },
+        "nvda": {
+            "type": "swing",
+            "entryPrice": null,
+            "stopLoss": null,
+            "takeProfit": null,
+            "amount": 100,
+            "closedPrice": null
+        },
+        "googl": {
+            "type": "long",
+            "entryPrice": null,
+            "stopLoss": null,
+            "amount": 100,
+            "closedPrice": null
+        },
+        "AAPL entry: 150 stop_loss: 145": {
+            "entryPrice": null,
+            "stopLoss": null,
+            "amount": 10,
+            "closedPrice": null
+        },
+        "amzn": {
+            "entryPrice": null,
+            "stopLoss": null,
+            "amount": 2,
+            "closedPrice": null
+        }
+    },
+    "Dvir shalom": {
+        "AAPL": {
+            "entryPrice": 150,
+            "closedPrice": 200,
+            "amount": null
+        },
+        "dxcm": {
+            "entryPrice": 100,
+            "stopLoss": 300,
+            "takeProfit": null,
+            "amount": 200,
+            "closedPrice": null
+        },
+        "GOOG": {
+            "entryPrice": 100,
+            "closedPrice": null,
+            "stopLoss": 300,
+            "amount": 200
+        }
+    },
+    "Yosi cohen": {
+        "SYM": {
+            "entryPrice": 100,
+            "closedPrice": null
+        },
+        "APPL": {
+            "type": "swing",
+            "entryPrice": 200,
+            "stopLoss": 300,
+            "takeProfit": 400,
+            "shares": 500,
+            "closedPrice": null
+        },
+        "AAPL": {
+            "entryPrice": 200,
+            "stopLoss": 180,
+            "shares": 10,
+            "closedPrice": null
+        }
+    },
+    "BoByBoB": {
+        "nvda": {
+            "entryPrice": null,
+            "stopLoss": null,
+            "closedPrice": null,
+            "amount": null
+        },
+        "appl": {
+            "entryPrice": 200,
+            "stopLoss": 200,
+            "takeProfit": 200,
+            "closedPrice": 1000
+        }
+    },
+    "appl": {
+        "200": {
+            "entryPrice": 200,
+            "closedPrice": null
+        }
+    }
+}
